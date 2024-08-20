@@ -80,6 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For more information, you can reach me at:
-
 - Email: diljaz@gmail.com
 - LinkedIn: [Dil Jazeel](https://www.linkedin.com/in/dil-jazeel-2985b762)
